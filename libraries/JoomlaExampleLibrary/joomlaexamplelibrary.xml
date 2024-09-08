@@ -8,7 +8,7 @@
     <version>1.0.0</version>
     <description>Showcase on how to create a Joomla 5 library to reuse code.</description>
     <files>
-        <folder>Service</folder>
+        <folder>src</folder>
         <filename>joomlaexamplelibrary.xml</filename>
     </files>
 </extension>

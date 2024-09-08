@@ -1,5 +1,5 @@
 <?php
-namespace JoomlaExampleLibrary\Service;
+namespace JoomlaExampleLibrary\src;
 
 class JoomlaExampleService
 {
