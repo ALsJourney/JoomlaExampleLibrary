@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" version="5.0" method="upgrade">
+    <name>Joomla 5 Example Library</name>
+    <libraryname>JoomlaExampleLibrary</libraryname>
+    <author>alsjourney</author>
+    <creationDate>2024-09-08</creationDate>
+    <license>GNU General Public License version 2 or later</license>
+    <version>1.0.0</version>
+    <description>Showcase on how to create a Joomla 5 library to reuse code.</description>
+    <files>
+        <folder>Service</folder>
+        <filename>joomlaexamplelibrary.xml</filename>
+    </files>
+</extension>
